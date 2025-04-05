@@ -1,6 +1,6 @@
-# Credit Card Behavior Prediction Score
+# Loan  Prediction Score using ML
 
-This project implements a machine learning model to predict the behavior of credit card users based on various features. The notebook demonstrates the data preprocessing, exploration, and model building process using a dataset containing credit card-related information.
+This project implements a machine learning model to predict the behavior of Loan  Prediction Score users based on various features. The notebook demonstrates the data preprocessing, exploration, and model building process using a dataset containing credit card-related information.
 
 ## Features
 
