@@ -28,7 +28,7 @@ To run this project, you need Python 3.x installed along with the following libr
 
 You can install the required libraries by running:
 
-```bash
+bash
 pip install -r requirements.txt
 Running the Notebook
 Clone the repository:
@@ -46,7 +46,8 @@ Open the notebook:
 bash
 Copy
 jupyter notebook credit-card-behaviour-prediction-score.ipynb
-Model Evaluation
+
+## Model Evaluation
 The performance of the model is evaluated using:
 
 Confusion Matrix
@@ -58,12 +59,9 @@ Accuracy Score
 Contributions
 Feel free to fork the repository and submit pull requests. Contributions are welcome!
 
-vbnet
-Copy
 
-This format is ideal for posting on GitHub as it uses proper markdown structure, making the content clear and well-organized for readers. You can copy-paste it into the `README.md` file of your GitHub repository.
 
-Let me know if you need further modifications or adjustments!
+
 
 
 
